@@ -11,4 +11,4 @@ npm run dev
 
 # Used Techs
 
-### Vite,React,Redux,uuid
+### Vite,React,Redux,nanoid
